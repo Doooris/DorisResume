@@ -1,0 +1,177 @@
+{"Author": "Doris - Inspired by Joyee Cheung",
+  "Guide": [
+    "照着这里面的格式填写即可",
+    "PDF使用chrome浏览器的保存为PDF即可,放置于src/pdf文件夹。",
+    "PDF的地址，将这个文件里pdf部分改为你的PDF文件名即可"
+  ],
+  "title": "黄霞 - 个人简历",
+  "aside": [{
+    "href": "https://github.com/Doooris",
+    "content": "源代码"
+  }, {
+    "href": "../src/pdf/DorisResume.pdf",
+    "content": "PDF下载"
+  }, {
+    "href": "https://www.zhihu.com/people/huangxia",
+    "content": "知乎"
+  }],
+  "header": {
+    "title": {
+      "name": "黄霞",
+      "job": "前端开发"
+    },
+    "contacts": {
+      "phone": "15828543105",
+      "mail": "hxpt2031@gmail.com",
+      "wechat": "huangxia2031",
+      "github": {
+        "href": "https://github.com/Doooris",
+        "name": "Doris"
+      },
+      "blog": {
+        "href": "http://www.idoris.me",
+        "name": "Doris'blog"
+      }
+    }
+  },
+  "education": {
+    "time": "2010-2014",
+    "name": "东华大学",
+    "major": "物流管理（本科）",
+    "honor": [
+      "2012.9-2013.1  东华大学就业服务中心——助理",
+      "2013.4 - 2013.6  史泰博（上海）有限公司——采购助理",
+      "2013.6-2013.9  德迅公司（Kuehne & Nagel,K&N）——单证实习生"
+    ]
+  },
+  "language": {
+    "cert": [
+      {
+      "name": "CET-4",
+      "grade": 542,
+      "fullmarks": 710
+    },
+      {
+      "name": "CET-6",
+      "grade": 516,
+      "fullmarks": 710
+    }],
+  "skills": [
+      "能较为流畅的阅读开发文档及其他资料",
+      "能利用Google进行英文搜索，可阅读Stack Overflow等社区的回答",
+      "可无字幕观看美剧"
+    ]},
+  "experience": [{
+    "title": {
+      "place": "Doris个人网站",
+      "time": "2016.12-至今",
+      "links": [{
+        "name": "Demo",
+        "href": "http://www.idoris.me"
+      },{
+        "name": "源代码",
+        "href": "https://github.com/Doooris/my-blog"
+      }]
+    },
+    "content": {
+      "position": "前后端开发",
+      "tasks": [
+        "使用 `HTML` + `CSS`+`jQuery` , 进行前端页面开发",
+        "使用 `Node.js`+`Express`+`Mongoose`,进行后端业务逻辑开发",
+        "使用`Linux`+`Nginx`,完成网站部署"
+      ]
+    }
+  }, {
+    "title": {
+      "place": "慕课网首页练习",
+      "time": "2016.2",
+      "links": [{
+        "name":"imooc-practice",
+        "href":"https://github.com/Doooris/imooc-practice"
+    }]
+    },
+    "content": {
+      "position": " 前端开发",
+      "tasks": [
+        "运用`DOM操作`，`定时器`，`js动画`，`函数递归`等知识点实现首页轮播图效果",
+        "运用Transition,Animation,实现页面部分动画",
+        "学习CSS3新特性，如box-reflect,filter,blend-mode,flex流动布局等"
+      ]
+    }
+  }, {
+    "title": {
+      "place": "豆瓣首页练习",
+      "time": "2016.1",
+       "links": [{
+        "name":"douban-index",
+        "href":"https://github.com/Doooris/douban-index"
+    }]
+    },
+    "content": {
+      "position": " 前端开发",
+      "tasks": [
+        "熟练使用CSS,HTML进行静态页面开发",
+        "学习使用`jQuery`实现简单页面互动效果"
+      ]
+    }
+  }],
+  "skills" : {
+    "flags": {
+      "name": "Web前端",
+      "skill": [{
+        "name": "`HTML/CSS`",
+        "description": [
+          "能够编写语义化的 `HTML` ，熟悉 `CSS` 的使用，实现常用的布局与动画",
+          "了解 `HTML5/CSS3` 新特性，敢于尝试，能熟练使用部分新特性",
+          "不借助框架，能编写`响应式网页`"
+        ]
+      }, {
+        "name": "`ECMAScript（JavaScript）`",
+        "description": [
+          "熟悉 JavaScript ，`代码编写遵守规范`",
+          "了解` JavaScript 面向对象知识`与 `MV*` 模式",
+          "学习 ES6/7 规范，不断实践并在新项目中应用",
+          "会用JavaScript 的Ajax技术，实现局部动态页面刷新"
+        ]
+      }]
+    },
+    "cloud": {
+      "name": "Web后端",
+      "skill": [{
+        "name": "`Node.js`",
+        "description": [
+          "使用 `Node.js API`,`Express` 搭建简单后端程序,使用ejs渲染模板",
+          "能配合 `Mongoose`数据库,完成数据的增删查改",
+          "运用`NPM`,进行各种依赖包的下载，完成Nginx服务器环境的搭建"
+        ]
+      }, {
+        "name": "其它知识",
+        "description": [
+          "清楚`http协议`,并对`Web储存`方法（Cookie,LocalStorage,SessionStorage）有所了解",
+          "完成 `Nginx` 的配置，实现反向代理等功能",
+          "编写简单的` shell 脚本`，提升开发效率"
+        ]
+      }]
+    },
+    "gears": {
+      "name": "其它",
+      "skill": [
+        {
+          "name": "`计算机知识`",
+          "description": [
+            "本科期间学习了计算机组成原理、计算机网络知识、数据结构、MySQL等课程，学习VB,C语言编程",
+            "熟悉HTTP常见知识,有使用`nginx反向代理`的经验"
+          ]
+        },
+        {
+          "name": "工具使用",
+          "description": [
+            "熟练操作运用`Linux`，将`Mac OS`作为日常系统",
+            "使用`Vim`+`Webstorm`进行日常开发",
+            "熟练使用`Git`和`Pull Request`流程及分支管理 "
+          ]
+        }
+      ]
+    }
+  }
+}
