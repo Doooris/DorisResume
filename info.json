@@ -39,11 +39,8 @@
     "name": "东华大学",
     "major": "物流管理（本科）",
     "honor": [
-      "2012.9-2013.1  东华大学就业服务中心——助理",
-      "2013.4 - 2013.6  史泰博（上海）有限公司——采购助理",
-      "2013.6-2013.9  德迅公司（Kuehne & Nagel,K&N）——单证实习生"
-    ]
-  },
+        "2013.4 - 2013.9  史泰博（上海）有限公司/德迅公司"
+  ]},
   "language": {
     "cert": [
       {
@@ -61,10 +58,26 @@
       "能利用Google进行英文搜索，可阅读Stack Overflow等社区的回答",
       "可无字幕观看美剧"
     ]},
-  "experience": [{
+  
+    "experience": [{
+    "title": {
+    "place": "华润万家",
+    "time": "2014.7-2016.10"
+        },
+    "content": {
+    "position": "见习经理",
+    "tasks": [
+          "销售（逻辑思维能力，动手能力强）",
+          "毛利控制（擅长逆向思维）",
+          "食品安全、标准跟进（注重细节、品质的把控）",
+          "仪容仪表、日常流程、商品知识培训"
+      ]
+        }
+         
+    },{
     "title": {
       "place": "Doris个人网站",
-      "time": "2016.12-至今",
+      "time": "2016.11-至今",
       "links": [{
         "name": "Demo",
         "href": "http://www.idoris.me"
@@ -93,7 +106,7 @@
     "content": {
       "position": " 前端开发",
       "tasks": [
-        "运用`DOM操作`，`定时器`，`js动画`，`函数递归`等知识点实现首页轮播图效果",
+        "运用`DOM操作`，`定时器`，`JS动画`，`函数递归`等知识点实现首页轮播图效果",
         "运用Transition,Animation,实现页面部分动画",
         "学习CSS3新特性，如box-reflect,filter,blend-mode,flex流动布局等"
       ]
@@ -140,16 +153,16 @@
       "skill": [{
         "name": "`Node.js`",
         "description": [
-          "使用 `Node.js API`,`Express` 搭建简单后端程序,使用ejs渲染模板",
+          "使用 `Node.js API`,`Express` 搭建简单后端程序,使用EJS模板渲染页面",
           "能配合 `Mongoose`数据库,完成数据的增删查改",
           "运用`NPM`,进行各种依赖包的下载，完成Nginx服务器环境的搭建"
         ]
       }, {
         "name": "其它知识",
         "description": [
-          "清楚`http协议`,并对`Web储存`方法（Cookie,LocalStorage,SessionStorage）有所了解",
+          "清楚`HTTP协议`,熟悉`Web储存`方法",
           "完成 `Nginx` 的配置，实现反向代理等功能",
-          "编写简单的` shell 脚本`，提升开发效率"
+          "编写简单的` Shell 脚本`，提升开发效率"
         ]
       }]
     },
@@ -169,6 +182,14 @@
             "熟练操作运用`Linux`，将`Mac OS`作为日常系统",
             "使用`Vim`+`Webstorm`进行日常开发",
             "熟练使用`Git`和`Pull Request`流程及分支管理 "
+          ]
+        },{
+          "name": "自我评价",
+          "description": [
+            "Google重度分子",
+            "VIM控,希望一切可以通过键盘搞定",
+            "有较强的自学能力和适应压力环境的能力",
+            "热爱阅读,喜欢三毛"
           ]
         }
       ]

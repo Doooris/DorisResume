@@ -126,3 +126,12 @@ block skills
                 dt.skill-name!= skill.name
                 each description in skill.description
                   dd.skill-description.icon-star!= description
+        if skills.comment
+          li.timeline-item.icon-comment
+            h3.timeline-title
+              span.skill= skills.comment.name
+            each skill in skills.comment.skill
+              dl.skill-content
+                dt.skill-name!= skill.name
+                each description in skill.description
+                  dd.skill-description.icon-star!= description
