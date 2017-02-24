@@ -54,8 +54,8 @@
       "fullmarks": 710
     }],
   "skills": [
-      "能较为流畅的阅读开发文档及其他资料",
-      "能利用Google进行英文搜索，可阅读Stack Overflow等社区的回答",
+      "能流畅的阅读开发文档及其他英文资料",
+      "可无障碍的通过StackOverflow/github等社区进行交流",
       "可无字幕观看美剧"
     ]},
   
@@ -76,8 +76,7 @@
          
     },{
     "title": {
-      "place": "Doris个人网站",
-      "time": "2016.11-至今",
+      "place": "个人网站 (2016.11-2017.2)",
       "links": [{
         "name": "Demo",
         "href": "http://www.idoris.me"
@@ -91,17 +90,25 @@
       "tasks": [
         "使用 `HTML` + `CSS`+`jQuery` , 进行前端页面开发",
         "使用 `Node.js`+`Express`+`Mongoose`,进行后端业务逻辑开发",
-        "使用`Linux`+`Nginx`,完成网站部署"
+        "使用`Linux`+`Nginx`,完成网站部署",
+        "使用JS的`Animate动画/Mouseover(out)/Click/Trigger事件/Skrollr插件,CSS的Animation`等实现页面的动画效果",
+        "Picture页面的照片查看器使用了`轮播图/输入验证/页面自适应`知识点",
+        "Article页面完成了`文章分类/标签/分页/上下页按钮/PV统计/评论功能`",
+        "在各个页面跳转时,使用`SessionStorage的Web储存方法`记录Header的收放状态",
+        "Admin后台页面完成了`文章发布/更新/删除功能`",
+        "网站使用`EJS模板`渲染页面,并使用`Include`进行大结构上的布局,让开发更灵活简单效率"
       ]
     }
   }, {
     "title": {
-      "place": "慕课网首页练习",
-      "time": "2016.2",
+      "place": "慕课网首页练习 (2016.2)",
       "links": [{
-        "name":"imooc-practice",
+        "name":"Demo",
+        "href":"https://htmlpreview.github.com/?https://github.com/Doooris/imooc-practice/blob/second-version/imooc.html"
+    },{
+        "name":"源代码",
         "href":"https://github.com/Doooris/imooc-practice"
-    }]
+      }]
     },
     "content": {
       "position": " 前端开发",
@@ -113,12 +120,15 @@
     }
   }, {
     "title": {
-      "place": "豆瓣首页练习",
-      "time": "2016.1",
+      "place": "豆瓣首页练习 (2016.1)",
        "links": [{
-        "name":"douban-index",
-        "href":"https://github.com/Doooris/douban-index"
-    }]
+        "name":"Demo",
+        "href":"https://htmlpreview.github.com/?https://github.com/Doooris/douban-index/blob/master/douban.html"
+    },{
+         "name":"源代码",
+         "href":"https://github.com/Doooris/douban-index"
+
+       }]
     },
     "content": {
       "position": " 前端开发",
@@ -144,7 +154,7 @@
           "熟悉 JavaScript ，`代码编写遵守规范`",
           "了解` JavaScript 面向对象知识`与 `MV*` 模式",
           "学习 ES6/7 规范，不断实践并在新项目中应用",
-          "会用JavaScript 的Ajax技术，实现局部动态页面刷新"
+          "会用JavaScript的`Ajax技术`，实现局部动态页面刷新"
         ]
       }]
     },
@@ -153,16 +163,9 @@
       "skill": [{
         "name": "`Node.js`",
         "description": [
-          "使用 `Node.js API`,`Express` 搭建简单后端程序,使用EJS模板渲染页面",
-          "能配合 `Mongoose`数据库,完成数据的增删查改",
-          "运用`NPM`,进行各种依赖包的下载，完成Nginx服务器环境的搭建"
-        ]
-      }, {
-        "name": "其它知识",
-        "description": [
-          "清楚`HTTP协议`,熟悉`Web储存`方法",
-          "完成 `Nginx` 的配置，实现反向代理等功能",
-          "编写简单的` Shell 脚本`，提升开发效率"
+          "使用 `Node.js API`,`Express` 搭建简单后端程序,使用`EJS模板`渲染页面",
+          "熟悉`MongoDB`的增删查改",
+          "了解`Nginx`相关配置"
         ]
       }]
     },
@@ -173,7 +176,8 @@
           "name": "`计算机知识`",
           "description": [
             "本科期间学习了计算机组成原理、计算机网络知识、数据结构、MySQL等课程，学习VB,C语言编程",
-            "熟悉HTTP常见知识,有使用`nginx反向代理`的经验"
+            "清楚HTTP协议,熟悉`Web储存`方法",
+            "编写简单的` Shell 脚本`，提升开发效率"
           ]
         },
         {

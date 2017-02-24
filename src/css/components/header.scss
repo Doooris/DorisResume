@@ -1,6 +1,6 @@
 header {
   overflow: hidden;
-  padding: 30px 45px;
+  padding: 20px 45px;
   color: #fff;
   background-color: #333;
   @include media('<tablet') {
@@ -68,7 +68,7 @@ address {
 
 .wechat {
   @include media('print') {
-    display: none;
+    display: block;
   }
 }
 
