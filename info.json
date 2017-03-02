@@ -62,7 +62,7 @@
     "experience": [{
     "title": {
     "place": "华润万家",
-    "time": "2014.7-2016.10"
+    "time": "2014.7-2016.8"
         },
     "content": {
     "position": "见习经理",
@@ -156,6 +156,13 @@
           "学习 ES6/7 规范，不断实践并在新项目中应用",
           "会用JavaScript的`Ajax技术`，实现局部动态页面刷新"
         ]
+      },{
+        "name": "前端工程实践",
+        "description": [
+          "熟悉`jQuery`/`Bootstrap`的使用",
+          "熟悉`Vue`极其相关组件的运用",
+          "在项目中使用过`Sass`预处理工具,使用`Gulp`自动化构建工具辅助工作流"
+        ]
       }]
     },
     "cloud": {
@@ -185,7 +192,8 @@
           "description": [
             "熟练操作运用`Linux`，将`Mac OS`作为日常系统",
             "使用`Vim`+`Webstorm`进行日常开发",
-            "熟练使用`Git`和`Pull Request`流程及分支管理 "
+            "熟练使用`Git`和`Pull Request`流程及分支管理 ",
+            "熟练使用`Photoshop`工具"
           ]
         },{
           "name": "自我评价",
